@@ -43,7 +43,6 @@ $ node create-pull-request.mjs
 You will be asked to set the Title, From branch, and To branch, so enter them.
 
 ```bash
-ql062116@QVD2A243 MINGW64 /c/temp/batch
 $ node create-pull-request.mjs
 Set Title: test pull request
 Set Source Branch: feature
