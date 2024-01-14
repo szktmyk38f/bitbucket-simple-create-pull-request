@@ -3,7 +3,6 @@ Solves the problem of access to the pull request creation screen, which becomes 
 
 # Confirm that Node.js version 18 or higher is installed.
 ```bash
-/c/temp/batch
 $ node -v
 v18.15.0
 ```
